@@ -6,7 +6,6 @@ rbac/__init__.py
 rbac/admin.py
 rbac/apps.py
 rbac/models.py
-rbac/signals.py
 rbac/tests.py
 rbac/urls.py
 rbac.egg-info/PKG-INFO
